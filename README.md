@@ -1,2 +1,5 @@
-# vue-placeholder-component
+# vue-image-placeholder-component
+
 Placeholder Component of Vue.js
+
+
