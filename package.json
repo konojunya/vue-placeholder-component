@@ -1,8 +1,8 @@
 {
   "name": "vue-image-placeholder-component",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Placeholder Component of Vue.js",
-  "main": "./dist/img-placeholder.js",
+  "main": "dist/img-placeholder.js",
   "private": false,
   "scripts": {
     "build": "webpack --color --progress",
@@ -13,9 +13,9 @@
     "type": "git",
     "url": "git+https://github.com/konojunya/vue-placeholder-component.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["vue", "vuejs", "component", "image", "ui-placeholder"],
+  "author": "konojunya",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/konojunya/vue-placeholder-component/issues"
   },
@@ -32,10 +32,10 @@
     "style-loader": "^0.20.1",
     "vue-loader": "^14.1.1",
     "vue-template-compiler": "^2.5.13",
-    "webpack": "^3.10.0"
+    "webpack": "^3.10.0",
+    "express": "^4.16.2"
   },
   "dependencies": {
-    "express": "^4.16.2",
     "vue": "^2.5.13"
   }
 }
