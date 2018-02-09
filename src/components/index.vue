@@ -1,5 +1,8 @@
 <template>
-  <img-placeholder src="http://www.jtb.co.jp/kaigai/area/hawaii/images/img_main_visual_01_renew.jpg" ></img-placeholder>
+  <section>
+    <img-placeholder src="/img/sample.jpg" width="600" delay="3000" />
+    <img-placeholder src="/img/mori.jpg" width="600" delay="3000" />
+  </section>
 </template>
 
 <script>
