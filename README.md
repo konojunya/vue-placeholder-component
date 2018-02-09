@@ -2,6 +2,8 @@
 
 Placeholder Component of Vue.js
 
+![](https://raw.githubusercontent.com/konojunya/vue-placeholder-component/master/screen/screen.gif)
+
 ## Install
 
 ```
